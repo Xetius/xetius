@@ -1,7 +1,0 @@
-{
-  "ignore": [
-  ],
-  "packageJsonLocation": "frontend/package.json",
-  "dependencies": {
-  }
-}
